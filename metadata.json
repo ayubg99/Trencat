@@ -1,0 +1,6 @@
+{
+  "name": "Trencat Dolç i Salat",
+  "description": "Café, Brunch y Tapas en el corazón del centro histórico de Valencia. Dog-friendly, artesanal y auténtico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
